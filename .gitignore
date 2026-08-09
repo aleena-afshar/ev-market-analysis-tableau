@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tableau temp/log files
+*.tde
+*.hyper.lock
+*.log
+Data/TableauTemp/
+
+# Jupyter/Python (kept in case notebooks/scripts are added later)
+.ipynb_checkpoints/
+__pycache__/
+
+# Editor configs
+.vscode/
+.idea/
