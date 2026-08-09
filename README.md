@@ -171,6 +171,6 @@ The **Superstore Performance Dashboard** was built from 19 individual worksheets
 
 ## Author & Contact
 **Aleena Afshar**
-Data Analyst
+Aspiring Data Analyst
 📧 afsharaleena@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/aleena-afshar) • [GitHub](https://github.com/aleena-afshar)
